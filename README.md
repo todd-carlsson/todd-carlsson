@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Todd 🎸
 
 <!--
 **todd-carlsson/todd-carlsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm 22 years old from Feilding, New Zealand
+- Currently studying as a Frontend Developer, working with React
+- Contact me at toddcarlsson2019@gmail.com
