@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - I'm 22 years old from Feilding, New Zealand
-- Currently studying as a Frontend Developer, working with React
+- Currently studying as a React Frontend Developer
 - Contact me at toddcarlsson2019@gmail.com
