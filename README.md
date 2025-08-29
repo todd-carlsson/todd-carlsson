@@ -56,4 +56,5 @@ Here are some ideas to get you started:
 
 ## Other
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=for-the-badge&logo=postman)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=for-the-badge&logo=figma)&nbsp;
 </p>
