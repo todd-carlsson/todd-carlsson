@@ -44,15 +44,15 @@ Here are some ideas to get you started:
 ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=for-the-badge&logo=prisma)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=postgresql)&nbsp;
 
-## DevOps
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=docker)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-05122A?style=for-the-badge&logo=githubactions)&nbsp;
-
 ## Testing
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=for-the-badge&logo=cypress)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=for-the-badge&logo=jest)&nbsp;
 ![Vitest](https://img.shields.io/badge/-Vitest-05122A?style=for-the-badge&logo=vitest)&nbsp;
+
+## DevOps
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=docker)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-05122A?style=for-the-badge&logo=githubactions)&nbsp;
 
 ## Other
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=for-the-badge&logo=postman)&nbsp;
