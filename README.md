@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ## 🔧 Technologies I use
 ## Frontend
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=for-the-badge&logo=next.js)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-05122A?style=for-the-badge&logo=react)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=for-the-badge&logo=typescript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=css)&nbsp;
-![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=for-the-badge&logo=sass)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-05122A?style=for-the-badge&logo=sass)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=for-the-badge&logo=tailwindcss)&nbsp;
 ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-05122A?style=for-the-badge&logo=framer)&nbsp;
 ![Zod](https://img.shields.io/badge/-Zod-05122A?style=for-the-badge&logo=zod)&nbsp;
