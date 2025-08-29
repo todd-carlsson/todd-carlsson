@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm 22 years old from Feilding, New Zealand
-- Currently studying as a React Frontend Developer
+- I live in Feilding, New Zealand
+- Currently doing contract/freelance work as a frontend web developer
+- I have experience in frontend, backend and devops
 - Contact me at toddcarlsson2019@gmail.com
