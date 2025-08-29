@@ -36,5 +36,8 @@ Here are some ideas to get you started:
 ![Zod](https://img.shields.io/badge/-Zod-05122A?style=for-the-badge&logo=zod)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=docker)&nbsp;
 ![Storybook](https://img.shields.io/badge/-Storybook-05122A?style=for-the-badge&logo=storybook)&nbsp;
+![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=for-the-badge&logo=cypress)&nbsp;
+![Playwright](https://img.shields.io/badge/-Playwright-05122A?style=for-the-badge&logo=playwright)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-05122A?style=for-the-badge&logo=jest)&nbsp;
 
 </p>
