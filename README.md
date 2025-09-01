@@ -26,15 +26,18 @@ Here are some ideas to get you started:
 ## Frontend
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=for-the-badge&logo=next.js)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-05122A?style=for-the-badge&logo=react)&nbsp;
+![React Router](https://img.shields.io/badge/-React_Router-05122A?style=for-the-badge&logo=reactrouter)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=css)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=for-the-badge&logo=sass)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=for-the-badge&logo=tailwindcss)&nbsp;
+![React Query](https://img.shields.io/badge/-React_Query-05122A?style=for-the-badge&logo=reactquery)&nbsp;
 ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-05122A?style=for-the-badge&logo=framer)&nbsp;
 ![Zod](https://img.shields.io/badge/-Zod-05122A?style=for-the-badge&logo=zod)&nbsp;
 ![Storybook](https://img.shields.io/badge/-Storybook-05122A?style=for-the-badge&logo=storybook)&nbsp;
+![Shadcn/UI](https://img.shields.io/badge/-Shadcn/UI-05122A?style=for-the-badge&logo=shadcnui)&nbsp;
 ![Biome](https://img.shields.io/badge/-Biome-05122A?style=for-the-badge&logo=biome)&nbsp;
 ![Stylelint](https://img.shields.io/badge/-Stylelint-05122A?style=for-the-badge&logo=stylelint)&nbsp;
 
