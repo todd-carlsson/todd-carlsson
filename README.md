@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p>
   
-## 🔧 Technologies I use
+## 🔧 Tools & technologies I use
 ## Frontend
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=for-the-badge&logo=next.js)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-05122A?style=for-the-badge&logo=react)&nbsp;
