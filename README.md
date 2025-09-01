@@ -47,6 +47,10 @@ Here are some ideas to get you started:
 ![Drizzle](https://img.shields.io/badge/-Drizzle-05122A?style=for-the-badge&logo=drizzle)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=for-the-badge&logo=prisma)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=postgresql)&nbsp;
+![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=for-the-badge&logo=supabase)&nbsp;
+![Better Auth](https://img.shields.io/badge/-Better_Auth-05122A?style=for-the-badge&logo=betterauth)&nbsp;
+![Open API](https://img.shields.io/badge/-Open_API-05122A?style=for-the-badge&logo=openapiinitiative)&nbsp;
+![Scalar](https://img.shields.io/badge/-Scalar-05122A?style=for-the-badge&logo=scalar)&nbsp;
 
 ## Testing
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=for-the-badge&logo=cypress)&nbsp;
